@@ -11,7 +11,7 @@ Literature Review
 
 ### Grading & Relevance
 The document was graded as 1.3 in the german scale.
-The *german scale* reaches from 1.0, best, to 4.0, worst (just passed).
+The **german scale** reaches from 1.0, best, to 4.0, worst (just passed).
 
 ### Reasons for publishing
 1) Believe in Open Access / -Source community. Science shall be free.
