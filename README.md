@@ -1,4 +1,4 @@
-# How does Artifcial Intelligence impact on the economics of work?
+# How does Artificial Intelligence impact on the economics of work?
 
 Bachelor thesis from 2017 about how the economics of work is seen to change from progressing AI systems.
 
