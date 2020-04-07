@@ -9,14 +9,15 @@ Literature Review
 1) Bachelor thesis at University of Cologne, Germany, 2017.
 2) The topic was led by my interest in the field.
 
-### Grading & Relevance
-The document was graded as 1.3 in the German scale. <br/>
-The **German scale** reaches from 1.0, best, to 4.0, worst (just passed).
+### Workload & Grading
+The document is supposed to represents 9 [ECTs](https://de.wikipedia.org/wiki/European_Credit_Transfer_System) or 9 * 30h = 270h workload. <br/>
+The document was graded as a 1.3 in the German scale. <br/>
+The **German scale** reaches from 1.0 (best) to 4.0 (just passed).
 
 ### Reasons for publishing
-1) Believe in Open Access / -Source community. Science shall be free.
+1) Believe in Open-Access/-Source community. Science shall be free.
 2) Faster progress in tech, as others can move forward (faster) after reading this.
-3) Help for other students, who need to conduct a literature review. The used sources can be used a guideline.
+3) Help for other students, who need to conduct a literature review. The sources can be used a guideline.
 
 # Remark
 In your position I would not cite from this document.
